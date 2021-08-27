@@ -1,0 +1,30 @@
+/* Add application styles & imports to this file! */
+
+body {
+  background: #49515e3f !important;
+  color: #6b6b6b;
+  margin: 0;
+  padding: 0;
+  #body {
+    padding-left: 70px;
+    width: 100%;
+  }
+}
+a {
+  color: rgb(87, 104, 250);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(112, 126, 250);
+}
+.list {
+  padding: 10px;
+
+  border-radius: 3px;
+  box-shadow: 0 1px 1px rgb(0 0 0 / 0%), 0 0px 7px rgb(0 0 0 / 18%);
+  background: rgb(252, 252, 252);
+}
+
+.healoo {
+  padding: 3px;
+}
